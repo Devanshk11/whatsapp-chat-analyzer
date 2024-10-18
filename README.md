@@ -47,7 +47,7 @@ I welcome contributions and feedback! If you find any issues or have suggestions
 ## Contact
 For any inquiries or further information, you can reach me at dskapsit@gmail.com
 
-## Thank you for visiting my profile!
+Thank you for visiting my profile!
 
 
 
