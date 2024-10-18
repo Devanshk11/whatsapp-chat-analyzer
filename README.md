@@ -12,12 +12,12 @@
 
 ## Features 
 
-• **Sentiment Analysis**: Automatically classifies messages into positive, neutral, or negative sentiments using the VADER Sentiment Analysis tool from NLTK.</br>
-• Most Active Users: Identifies the most active participants in the chat and visualizes their contributions.</br>
-• Message Statistics: Displays statistics such as the total number of messages, most frequent words, and the distribution of messages over time.</br>
-• Word Cloud Generation: Visualizes frequently used words in the conversation as a word cloud.</br>
-• Chat Parsing: Reads WhatsApp chat files and cleans the data for analysis.</br>
-• Visual Insights: Generates easy-to-understand graphs for user activity, message frequency, and sentiment trends.</br>
+• **Sentiment Analysis** : Automatically classifies messages into positive, neutral, or negative sentiments using the VADER Sentiment Analysis tool from NLTK.</br>
+• **Most Active Users**: Identifies the most active participants in the chat and visualizes their contributions.</br>
+• **Message Statistics** : Displays statistics such as the total number of messages, most frequent words, and the distribution of messages over time.</br>
+• **Word Cloud Generation** : Visualizes frequently used words in the conversation as a word cloud.</br>
+• **Chat Parsing** : Reads WhatsApp chat files and cleans the data for analysis.</br>
+• **Visual Insights** : Generates easy-to-understand graphs for user activity, message frequency, and sentiment trends.</br>
 
 ## Project Outcomes
 • Successfully analyzed WhatsApp chat data with minimal user input.</br>
