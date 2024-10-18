@@ -1,4 +1,4 @@
-Requirements
+## Requirements
 
 Python
 Streamlit
@@ -7,7 +7,7 @@ Seaborn
 NLTK
 Wordcloud
 
-Following libraries are used:
+## Libraries used
 
 Streamlit: For building the interactive web interface.
 NLTK (Natural Language Toolkit): Used for sentiment analysis with the VADER lexicon.
